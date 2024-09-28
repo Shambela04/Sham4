@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Assignments.A10ArrayPrimeno</StartupObject>
+    <StartupObject>Assignments.A13HierarchicalInheritance</StartupObject>
   </PropertyGroup>
 
 </Project>
