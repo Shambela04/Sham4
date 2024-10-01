@@ -55,14 +55,14 @@ namespace Assignments
         static void Main()
         {
             IPlayable1 music = new MusicPlayer();
-            music.PlayingAction("Start");
+            music.PlayingAction("Start Music");
             IPlayable1 music2 = new MusicPlayer();
-            music.PauseAction("Stop");
+            music.PauseAction("Stop Music");
 
             IPlayable1 video = new VideoPlayer();
-            video.PlayingAction("Start1");
+            video.PlayingAction("Start Video");
             IPlayable1 video1 = new VideoPlayer();
-            video1.PlayingAction("Stop1");
+            video1.PlayingAction("Stop Video");
 
 
         }
